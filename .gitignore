@@ -130,3 +130,6 @@ dmypy.json
 
 # Drafts
 drafts
+
+# Mac OS
+.DS_Store
